@@ -1,0 +1,4 @@
+﻿Pokemon Name,ElementOne,ElementTwo,HP,Attack,Defense,SpAttack,SpDefense,Speed,MoveOne,Element,Base Power,Split,PP,Accuracy,MoveTwo,Element,Base Power,Split,PP,Accuracy,MoveThree,Element,Base Power,Split,PP,Accuracy,MoveFour,Element,Base Power,Split,PP,Accuracy
+Charizard,Fire,Flying,,,,,,,Flamethrower,Fire,90,Special,15,100,Slash,Fire,90,Special,15,100,DragonClaw,Fire,90,Special,15,100,Wing Attack,Fire,90,Special,15,100
+Venusaur,Grass,Poison,,,,,,,Razor Leaf,,,,,,Solarbeam,,,,,,Slam,,,,,,Sludge,,,,,
+Blastoise,Water,Null,268,232,269,302,258,177,Hydro Pump,,,,,,Shell bash,,,,,,Crunch,,,,,,Ice Beam,,,,,
